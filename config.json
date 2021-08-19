@@ -1,47 +1,45 @@
 {
-  "Mockups": [
-    {
-      "height": 2020,
-      "compressed_path": "./photos/Mockups/Desktop.min.png",
-      "width": 1440,
-      "compressed": false,
-      "placeholder_path": "./photos/Mockups/Desktop.placeholder.png",
-      "path": "./photos/Mockups/Desktop.png"
-    },
-    {
-      "height": 1024,
-      "compressed_path": "./photos/Mockups/curriculum.min.png",
-      "width": 1440,
-      "compressed": false,
-      "placeholder_path": "./photos/Mockups/curriculum.placeholder.png",
-      "path": "./photos/Mockups/curriculum.png"
-    },
-    {
-      "height": 1000,
-      "compressed_path": "./photos/Mockups/Frame.min.png",
-      "width": 1000,
-      "compressed": false,
-      "placeholder_path": "./photos/Mockups/Frame.placeholder.png",
-      "path": "./photos/Mockups/Frame.png"
-    },
-    {
-      "height": 1024,
-      "compressed_path": "./photos/Mockups/glossary.min.png",
-      "width": 1440,
-      "compressed": false,
-      "placeholder_path": "./photos/Mockups/glossary.placeholder.png",
-      "path": "./photos/Mockups/glossary.png"
-    },
-    {
-      "height": 1024,
-      "compressed_path": "./photos/Mockups/photoframe.min.png",
-      "width": 1440,
-      "compressed": false,
-      "placeholder_path": "./photos/Mockups/photoframe.placeholder.png",
-      "path": "./photos/Mockups/photoframe.png"
-    }
-  ],
   "Field_Work": [
+    {
+      "height": 1456,
+      "compressed_path": "./photos/Field_Work/web_36.min.jpg",
+      "width": 2592,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_36.placeholder.jpg",
+      "path": "./photos/Field_Work/web_36.jpg"
+    },
+    {
+      "height": 2592,
+      "compressed_path": "./photos/Field_Work/web_37.min.jpg",
+      "width": 1456,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_37.placeholder.jpg",
+      "path": "./photos/Field_Work/web_37.jpg"
+    },
+    {
+      "height": 2048,
+      "compressed_path": "./photos/Field_Work/web_23.min.jpg",
+      "width": 1536,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_23.placeholder.jpg",
+      "path": "./photos/Field_Work/web_23.jpg"
+    },
+    {
+      "height": 1456,
+      "compressed_path": "./photos/Field_Work/web_35.min.jpg",
+      "width": 2592,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_35.placeholder.jpg",
+      "path": "./photos/Field_Work/web_35.jpg"
+    },
+    {
+      "height": 1536,
+      "compressed_path": "./photos/Field_Work/web_20.min.jpg",
+      "width": 2048,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_20.placeholder.jpg",
+      "path": "./photos/Field_Work/web_20.jpg"
+    },
     {
       "height": 957,
       "compressed_path": "./photos/Field_Work/web_34.min.jpg",
@@ -49,6 +47,102 @@
       "compressed": false,
       "placeholder_path": "./photos/Field_Work/web_34.placeholder.jpg",
       "path": "./photos/Field_Work/web_34.jpg"
+    },
+    {
+      "height": 3240,
+      "compressed_path": "./photos/Field_Work/web_30.min.jpg",
+      "width": 4320,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_30.placeholder.jpg",
+      "path": "./photos/Field_Work/web_30.jpg"
+    },
+    {
+      "height": 1536,
+      "compressed_path": "./photos/Field_Work/web_24.min.jpg",
+      "width": 2048,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_24.placeholder.jpg",
+      "path": "./photos/Field_Work/web_24.jpg"
+    },
+    {
+      "height": 1536,
+      "compressed_path": "./photos/Field_Work/web_19.min.jpg",
+      "width": 2048,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_19.placeholder.jpg",
+      "path": "./photos/Field_Work/web_19.jpg"
+    },
+    {
+      "height": 2048,
+      "compressed_path": "./photos/Field_Work/web_25.min.jpg",
+      "width": 1536,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_25.placeholder.jpg",
+      "path": "./photos/Field_Work/web_25.jpg"
+    },
+    {
+      "height": 3240,
+      "compressed_path": "./photos/Field_Work/web_31.min.jpg",
+      "width": 4320,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_31.placeholder.jpg",
+      "path": "./photos/Field_Work/web_31.jpg"
+    },
+    {
+      "height": 1944,
+      "compressed_path": "./photos/Field_Work/web_33.min.jpg",
+      "width": 2592,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_33.placeholder.jpg",
+      "path": "./photos/Field_Work/web_33.jpg"
+    },
+    {
+      "height": 3240,
+      "compressed_path": "./photos/Field_Work/web_32.min.jpg",
+      "width": 4320,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_32.placeholder.jpg",
+      "path": "./photos/Field_Work/web_32.jpg"
+    },
+    {
+      "height": 1536,
+      "compressed_path": "./photos/Field_Work/web_26.min.jpg",
+      "width": 2048,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_26.placeholder.jpg",
+      "path": "./photos/Field_Work/web_26.jpg"
+    },
+    {
+      "height": 4096,
+      "compressed_path": "./photos/Field_Work/web_110.min.jpg",
+      "width": 3072,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_110.placeholder.jpg",
+      "path": "./photos/Field_Work/web_110.jpg"
+    },
+    {
+      "height": 3264,
+      "compressed_path": "./photos/Field_Work/web_104.min.jpg",
+      "width": 1840,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_104.placeholder.jpg",
+      "path": "./photos/Field_Work/web_104.jpg"
+    },
+    {
+      "height": 4160,
+      "compressed_path": "./photos/Field_Work/web_138.min.jpg",
+      "width": 3120,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_138.placeholder.jpg",
+      "path": "./photos/Field_Work/web_138.jpg"
+    },
+    {
+      "height": 3120,
+      "compressed_path": "./photos/Field_Work/web_82.min.jpg",
+      "width": 4160,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_82.placeholder.jpg",
+      "path": "./photos/Field_Work/web_82.jpg"
     },
     {
       "height": 561,
@@ -59,12 +153,116 @@
       "path": "./photos/Field_Work/web_96.jpg"
     },
     {
+      "height": 3120,
+      "compressed_path": "./photos/Field_Work/web_69.min.jpg",
+      "width": 4160,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_69.placeholder.jpg",
+      "path": "./photos/Field_Work/web_69.jpg"
+    },
+    {
+      "height": 4160,
+      "compressed_path": "./photos/Field_Work/web_41.min.jpg",
+      "width": 2340,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_41.placeholder.jpg",
+      "path": "./photos/Field_Work/web_41.jpg"
+    },
+    {
+      "height": 3120,
+      "compressed_path": "./photos/Field_Work/web_55.min.jpg",
+      "width": 4160,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_55.placeholder.jpg",
+      "path": "./photos/Field_Work/web_55.jpg"
+    },
+    {
+      "height": 3120,
+      "compressed_path": "./photos/Field_Work/web_54.min.jpg",
+      "width": 4160,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_54.placeholder.jpg",
+      "path": "./photos/Field_Work/web_54.jpg"
+    },
+    {
+      "height": 1456,
+      "compressed_path": "./photos/Field_Work/web_40.min.jpg",
+      "width": 1456,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_40.placeholder.jpg",
+      "path": "./photos/Field_Work/web_40.jpg"
+    },
+    {
+      "height": 3120,
+      "compressed_path": "./photos/Field_Work/web_68.min.jpg",
+      "width": 4160,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_68.placeholder.jpg",
+      "path": "./photos/Field_Work/web_68.jpg"
+    },
+    {
+      "height": 3120,
+      "compressed_path": "./photos/Field_Work/web_97.min.jpg",
+      "width": 4160,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_97.placeholder.jpg",
+      "path": "./photos/Field_Work/web_97.jpg"
+    },
+    {
+      "height": 928,
+      "compressed_path": "./photos/Field_Work/web_83.min.jpg",
+      "width": 2760,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_83.placeholder.jpg",
+      "path": "./photos/Field_Work/web_83.jpg"
+    },
+    {
       "height": 708,
       "compressed_path": "./photos/Field_Work/web_5.min.jpg",
       "width": 2030,
       "compressed": false,
       "placeholder_path": "./photos/Field_Work/web_5.placeholder.jpg",
       "path": "./photos/Field_Work/web_5.jpg"
+    },
+    {
+      "height": 577,
+      "compressed_path": "./photos/Field_Work/web_139.min.jpg",
+      "width": 433,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_139.placeholder.jpg",
+      "path": "./photos/Field_Work/web_139.jpg"
+    },
+    {
+      "height": 1280,
+      "compressed_path": "./photos/Field_Work/web_105.min.jpg",
+      "width": 720,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_105.placeholder.jpg",
+      "path": "./photos/Field_Work/web_105.jpg"
+    },
+    {
+      "height": 577,
+      "compressed_path": "./photos/Field_Work/web_111.min.jpg",
+      "width": 325,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_111.placeholder.jpg",
+      "path": "./photos/Field_Work/web_111.jpg"
+    },
+    {
+      "height": 3000,
+      "compressed_path": "./photos/Field_Work/web_107.min.jpg",
+      "width": 4000,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_107.placeholder.jpg",
+      "path": "./photos/Field_Work/web_107.jpg"
+    },
+    {
+      "height": 577,
+      "compressed_path": "./photos/Field_Work/web_113.min.jpg",
+      "width": 325,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_113.placeholder.jpg",
+      "path": "./photos/Field_Work/web_113.jpg"
     },
     {
       "height": 523,
@@ -75,12 +273,244 @@
       "path": "./photos/Field_Work/web_95.jpg"
     },
     {
+      "height": 912,
+      "compressed_path": "./photos/Field_Work/web_81.min.jpg",
+      "width": 3064,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_81.placeholder.jpg",
+      "path": "./photos/Field_Work/web_81.jpg"
+    },
+    {
+      "height": 4160,
+      "compressed_path": "./photos/Field_Work/web_56.min.jpg",
+      "width": 3120,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_56.placeholder.jpg",
+      "path": "./photos/Field_Work/web_56.jpg"
+    },
+    {
+      "height": 664,
+      "compressed_path": "./photos/Field_Work/web_42.min.jpg",
+      "width": 3144,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_42.placeholder.jpg",
+      "path": "./photos/Field_Work/web_42.jpg"
+    },
+    {
+      "height": 3120,
+      "compressed_path": "./photos/Field_Work/web_57.min.jpg",
+      "width": 4160,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_57.placeholder.jpg",
+      "path": "./photos/Field_Work/web_57.jpg"
+    },
+    {
+      "height": 1920,
+      "compressed_path": "./photos/Field_Work/web_94.min.jpg",
+      "width": 2560,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_94.placeholder.jpg",
+      "path": "./photos/Field_Work/web_94.jpg"
+    },
+    {
+      "height": 577,
+      "compressed_path": "./photos/Field_Work/web_112.min.jpg",
+      "width": 325,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_112.placeholder.jpg",
+      "path": "./photos/Field_Work/web_112.jpg"
+    },
+    {
+      "height": 4160,
+      "compressed_path": "./photos/Field_Work/web_106.min.jpg",
+      "width": 3120,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_106.placeholder.jpg",
+      "path": "./photos/Field_Work/web_106.jpg"
+    },
+    {
+      "height": 4096,
+      "compressed_path": "./photos/Field_Work/web_102.min.jpg",
+      "width": 3072,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_102.placeholder.jpg",
+      "path": "./photos/Field_Work/web_102.jpg"
+    },
+    {
+      "height": 577,
+      "compressed_path": "./photos/Field_Work/web_116.min.jpg",
+      "width": 325,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_116.placeholder.jpg",
+      "path": "./photos/Field_Work/web_116.jpg"
+    },
+    {
+      "height": 577,
+      "compressed_path": "./photos/Field_Work/web_90.min.jpg",
+      "width": 433,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_90.placeholder.jpg",
+      "path": "./photos/Field_Work/web_90.jpg"
+    },
+    {
+      "height": 3216,
+      "compressed_path": "./photos/Field_Work/web_84.min.jpg",
+      "width": 4288,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_84.placeholder.jpg",
+      "path": "./photos/Field_Work/web_84.jpg"
+    },
+    {
+      "height": 2048,
+      "compressed_path": "./photos/Field_Work/web_53.min.jpg",
+      "width": 1536,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_53.placeholder.jpg",
+      "path": "./photos/Field_Work/web_53.jpg"
+    },
+    {
+      "height": 4160,
+      "compressed_path": "./photos/Field_Work/web_47.min.jpg",
+      "width": 2340,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_47.placeholder.jpg",
+      "path": "./photos/Field_Work/web_47.jpg"
+    },
+    {
+      "height": 2340,
+      "compressed_path": "./photos/Field_Work/web_46.min.jpg",
+      "width": 4160,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_46.placeholder.jpg",
+      "path": "./photos/Field_Work/web_46.jpg"
+    },
+    {
+      "height": 4160,
+      "compressed_path": "./photos/Field_Work/web_52.min.jpg",
+      "width": 2340,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_52.placeholder.jpg",
+      "path": "./photos/Field_Work/web_52.jpg"
+    },
+    {
+      "height": 1536,
+      "compressed_path": "./photos/Field_Work/web_85.min.jpg",
+      "width": 2048,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_85.placeholder.jpg",
+      "path": "./photos/Field_Work/web_85.jpg"
+    },
+    {
+      "height": 3733,
+      "compressed_path": "./photos/Field_Work/web_91.min.jpg",
+      "width": 3320,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_91.placeholder.jpg",
+      "path": "./photos/Field_Work/web_91.jpg"
+    },
+    {
+      "height": 1536,
+      "compressed_path": "./photos/Field_Work/web_3.min.jpg",
+      "width": 2048,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_3.placeholder.jpg",
+      "path": "./photos/Field_Work/web_3.jpg"
+    },
+    {
+      "height": 4160,
+      "compressed_path": "./photos/Field_Work/web_117.min.jpg",
+      "width": 2340,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_117.placeholder.jpg",
+      "path": "./photos/Field_Work/web_117.jpg"
+    },
+    {
+      "height": 4096,
+      "compressed_path": "./photos/Field_Work/web_103.min.jpg",
+      "width": 3072,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_103.placeholder.jpg",
+      "path": "./photos/Field_Work/web_103.jpg"
+    },
+    {
+      "height": 4160,
+      "compressed_path": "./photos/Field_Work/web_129.min.jpg",
+      "width": 3120,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_129.placeholder.jpg",
+      "path": "./photos/Field_Work/web_129.jpg"
+    },
+    {
+      "height": 577,
+      "compressed_path": "./photos/Field_Work/web_115.min.jpg",
+      "width": 325,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_115.placeholder.jpg",
+      "path": "./photos/Field_Work/web_115.jpg"
+    },
+    {
       "height": 1904,
       "compressed_path": "./photos/Field_Work/web_101.min.jpg",
       "width": 4271,
       "compressed": false,
       "placeholder_path": "./photos/Field_Work/web_101.placeholder.jpg",
       "path": "./photos/Field_Work/web_101.jpg"
+    },
+    {
+      "height": 600,
+      "compressed_path": "./photos/Field_Work/web_87.min.jpg",
+      "width": 800,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_87.placeholder.jpg",
+      "path": "./photos/Field_Work/web_87.jpg"
+    },
+    {
+      "height": 3120,
+      "compressed_path": "./photos/Field_Work/web_93.min.jpg",
+      "width": 4160,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_93.placeholder.jpg",
+      "path": "./photos/Field_Work/web_93.jpg"
+    },
+    {
+      "height": 4160,
+      "compressed_path": "./photos/Field_Work/web_50.min.jpg",
+      "width": 2340,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_50.placeholder.jpg",
+      "path": "./photos/Field_Work/web_50.jpg"
+    },
+    {
+      "height": 577,
+      "compressed_path": "./photos/Field_Work/web_51.min.jpg",
+      "width": 325,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_51.placeholder.jpg",
+      "path": "./photos/Field_Work/web_51.jpg"
+    },
+    {
+      "height": 4160,
+      "compressed_path": "./photos/Field_Work/web_45.min.jpg",
+      "width": 2340,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_45.placeholder.jpg",
+      "path": "./photos/Field_Work/web_45.jpg"
+    },
+    {
+      "height": 4500,
+      "compressed_path": "./photos/Field_Work/web_92.min.jpg",
+      "width": 3429,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_92.placeholder.jpg",
+      "path": "./photos/Field_Work/web_92.jpg"
+    },
+    {
+      "height": 4288,
+      "compressed_path": "./photos/Field_Work/web_86.min.jpg",
+      "width": 3216,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_86.placeholder.jpg",
+      "path": "./photos/Field_Work/web_86.jpg"
     },
     {
       "height": 577,
@@ -91,12 +521,44 @@
       "path": "./photos/Field_Work/web_100.jpg"
     },
     {
+      "height": 4160,
+      "compressed_path": "./photos/Field_Work/web_114.min.jpg",
+      "width": 2340,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_114.placeholder.jpg",
+      "path": "./photos/Field_Work/web_114.jpg"
+    },
+    {
+      "height": 1456,
+      "compressed_path": "./photos/Field_Work/web_128.min.jpg",
+      "width": 2592,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_128.placeholder.jpg",
+      "path": "./photos/Field_Work/web_128.jpg"
+    },
+    {
       "height": 1908,
       "compressed_path": "./photos/Field_Work/web_131.min.jpg",
       "width": 4032,
       "compressed": false,
       "placeholder_path": "./photos/Field_Work/web_131.placeholder.jpg",
       "path": "./photos/Field_Work/web_131.jpg"
+    },
+    {
+      "height": 4160,
+      "compressed_path": "./photos/Field_Work/web_125.min.jpg",
+      "width": 2340,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_125.placeholder.jpg",
+      "path": "./photos/Field_Work/web_125.jpg"
+    },
+    {
+      "height": 2340,
+      "compressed_path": "./photos/Field_Work/web_119.min.jpg",
+      "width": 4160,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_119.placeholder.jpg",
+      "path": "./photos/Field_Work/web_119.jpg"
     },
     {
       "height": 577,
@@ -107,12 +569,92 @@
       "path": "./photos/Field_Work/web_48.jpg"
     },
     {
+      "height": 3120,
+      "compressed_path": "./photos/Field_Work/web_60.min.jpg",
+      "width": 4160,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_60.placeholder.jpg",
+      "path": "./photos/Field_Work/web_60.jpg"
+    },
+    {
+      "height": 832,
+      "compressed_path": "./photos/Field_Work/web_61.min.jpg",
+      "width": 2496,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_61.placeholder.jpg",
+      "path": "./photos/Field_Work/web_61.jpg"
+    },
+    {
+      "height": 2340,
+      "compressed_path": "./photos/Field_Work/web_49.min.jpg",
+      "width": 4160,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_49.placeholder.jpg",
+      "path": "./photos/Field_Work/web_49.jpg"
+    },
+    {
+      "height": 577,
+      "compressed_path": "./photos/Field_Work/web_118.min.jpg",
+      "width": 325,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_118.placeholder.jpg",
+      "path": "./photos/Field_Work/web_118.jpg"
+    },
+    {
       "height": 577,
       "compressed_path": "./photos/Field_Work/web_124.min.jpg",
       "width": 325,
       "compressed": false,
       "placeholder_path": "./photos/Field_Work/web_124.placeholder.jpg",
       "path": "./photos/Field_Work/web_124.jpg"
+    },
+    {
+      "height": 4160,
+      "compressed_path": "./photos/Field_Work/web_130.min.jpg",
+      "width": 3120,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_130.placeholder.jpg",
+      "path": "./photos/Field_Work/web_130.jpg"
+    },
+    {
+      "height": 3120,
+      "compressed_path": "./photos/Field_Work/web_126.min.jpg",
+      "width": 4160,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_126.placeholder.jpg",
+      "path": "./photos/Field_Work/web_126.jpg"
+    },
+    {
+      "height": 2560,
+      "compressed_path": "./photos/Field_Work/web_132.min.jpg",
+      "width": 1920,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_132.placeholder.jpg",
+      "path": "./photos/Field_Work/web_132.jpg"
+    },
+    {
+      "height": 3120,
+      "compressed_path": "./photos/Field_Work/web_88.min.jpg",
+      "width": 4160,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_88.placeholder.jpg",
+      "path": "./photos/Field_Work/web_88.jpg"
+    },
+    {
+      "height": 3120,
+      "compressed_path": "./photos/Field_Work/web_63.min.jpg",
+      "width": 4160,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_63.placeholder.jpg",
+      "path": "./photos/Field_Work/web_63.jpg"
+    },
+    {
+      "height": 3120,
+      "compressed_path": "./photos/Field_Work/web_62.min.jpg",
+      "width": 4160,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_62.placeholder.jpg",
+      "path": "./photos/Field_Work/web_62.jpg"
     },
     {
       "height": 1821,
@@ -123,12 +665,132 @@
       "path": "./photos/Field_Work/web_89.jpg"
     },
     {
+      "height": 2560,
+      "compressed_path": "./photos/Field_Work/web_133.min.jpg",
+      "width": 1920,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_133.placeholder.jpg",
+      "path": "./photos/Field_Work/web_133.jpg"
+    },
+    {
+      "height": 904,
+      "compressed_path": "./photos/Field_Work/web_127.min.jpg",
+      "width": 2968,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_127.placeholder.jpg",
+      "path": "./photos/Field_Work/web_127.jpg"
+    },
+    {
+      "height": 2340,
+      "compressed_path": "./photos/Field_Work/web_123.min.jpg",
+      "width": 4160,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_123.placeholder.jpg",
+      "path": "./photos/Field_Work/web_123.jpg"
+    },
+    {
+      "height": 577,
+      "compressed_path": "./photos/Field_Work/web_137.min.jpg",
+      "width": 433,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_137.placeholder.jpg",
+      "path": "./photos/Field_Work/web_137.jpg"
+    },
+    {
+      "height": 3120,
+      "compressed_path": "./photos/Field_Work/web_99.min.jpg",
+      "width": 4160,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_99.placeholder.jpg",
+      "path": "./photos/Field_Work/web_99.jpg"
+    },
+    {
+      "height": 3120,
+      "compressed_path": "./photos/Field_Work/web_72.min.jpg",
+      "width": 4160,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_72.placeholder.jpg",
+      "path": "./photos/Field_Work/web_72.jpg"
+    },
+    {
+      "height": 3120,
+      "compressed_path": "./photos/Field_Work/web_66.min.jpg",
+      "width": 4160,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_66.placeholder.jpg",
+      "path": "./photos/Field_Work/web_66.jpg"
+    },
+    {
+      "height": 3072,
+      "compressed_path": "./photos/Field_Work/web_98.min.jpg",
+      "width": 4096,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_98.placeholder.jpg",
+      "path": "./photos/Field_Work/web_98.jpg"
+    },
+    {
+      "height": 4160,
+      "compressed_path": "./photos/Field_Work/web_136.min.jpg",
+      "width": 3120,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_136.placeholder.jpg",
+      "path": "./photos/Field_Work/web_136.jpg"
+    },
+    {
       "height": 577,
       "compressed_path": "./photos/Field_Work/web_122.min.jpg",
       "width": 325,
       "compressed": false,
       "placeholder_path": "./photos/Field_Work/web_122.placeholder.jpg",
       "path": "./photos/Field_Work/web_122.jpg"
+    },
+    {
+      "height": 2340,
+      "compressed_path": "./photos/Field_Work/web_108.min.jpg",
+      "width": 4160,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_108.placeholder.jpg",
+      "path": "./photos/Field_Work/web_108.jpg"
+    },
+    {
+      "height": 577,
+      "compressed_path": "./photos/Field_Work/web_134.min.jpg",
+      "width": 433,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_134.placeholder.jpg",
+      "path": "./photos/Field_Work/web_134.jpg"
+    },
+    {
+      "height": 577,
+      "compressed_path": "./photos/Field_Work/web_120.min.jpg",
+      "width": 1026,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_120.placeholder.jpg",
+      "path": "./photos/Field_Work/web_120.jpg"
+    },
+    {
+      "height": 3120,
+      "compressed_path": "./photos/Field_Work/web_59.min.jpg",
+      "width": 4160,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_59.placeholder.jpg",
+      "path": "./photos/Field_Work/web_59.jpg"
+    },
+    {
+      "height": 4160,
+      "compressed_path": "./photos/Field_Work/web_58.min.jpg",
+      "width": 3120,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_58.placeholder.jpg",
+      "path": "./photos/Field_Work/web_58.jpg"
+    },
+    {
+      "height": 3120,
+      "compressed_path": "./photos/Field_Work/web_64.min.jpg",
+      "width": 4160,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_64.placeholder.jpg",
+      "path": "./photos/Field_Work/web_64.jpg"
     },
     {
       "height": 577,
@@ -139,238 +801,148 @@
       "path": "./photos/Field_Work/web_121.jpg"
     },
     {
+      "height": 4160,
+      "compressed_path": "./photos/Field_Work/web_135.min.jpg",
+      "width": 3120,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_135.placeholder.jpg",
+      "path": "./photos/Field_Work/web_135.jpg"
+    },
+    {
+      "height": 3072,
+      "compressed_path": "./photos/Field_Work/web_109.min.jpg",
+      "width": 4096,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_109.placeholder.jpg",
+      "path": "./photos/Field_Work/web_109.jpg"
+    },
+    {
+      "height": 2592,
+      "compressed_path": "./photos/Field_Work/web_152.min.jpg",
+      "width": 1456,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_152.placeholder.jpg",
+      "path": "./photos/Field_Work/web_152.jpg"
+    },
+    {
+      "height": 2048,
+      "compressed_path": "./photos/Field_Work/web_17.min.jpg",
+      "width": 1536,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_17.placeholder.jpg",
+      "path": "./photos/Field_Work/web_17.jpg"
+    },
+    {
+      "height": 2048,
+      "compressed_path": "./photos/Field_Work/web_16.min.jpg",
+      "width": 1536,
+      "compressed": false,
+      "placeholder_path": "./photos/Field_Work/web_16.placeholder.jpg",
+      "path": "./photos/Field_Work/web_16.jpg"
+    },
+    {
       "height": 577,
       "compressed_path": "./photos/Field_Work/web_151.min.jpg",
       "width": 324,
       "compressed": false,
       "placeholder_path": "./photos/Field_Work/web_151.placeholder.jpg",
       "path": "./photos/Field_Work/web_151.jpg"
-    }
-  ],
-  "Travel Photography": [
-    {
-      "height": 4472,
-      "compressed_path": "./photos/Travel Photography/DSCF0219.min.jpg",
-      "width": 3578,
-      "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/DSCF0219.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF0219.jpg"
     },
     {
-      "height": 3265,
-      "compressed_path": "./photos/Travel Photography/DSCF1502.min.jpg",
-      "width": 4898,
+      "height": 3240,
+      "compressed_path": "./photos/Field_Work/web_28.min.jpg",
+      "width": 4320,
       "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/DSCF1502.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF1502.jpg"
+      "placeholder_path": "./photos/Field_Work/web_28.placeholder.jpg",
+      "path": "./photos/Field_Work/web_28.jpg"
     },
     {
-      "height": 2940,
-      "compressed_path": "./photos/Travel Photography/IMG_9966.min.jpg",
-      "width": 2205,
+      "height": 2048,
+      "compressed_path": "./photos/Field_Work/web_14.min.jpg",
+      "width": 1536,
       "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/IMG_9966.placeholder.jpg",
-      "path": "./photos/Travel Photography/IMG_9966.jpg"
+      "placeholder_path": "./photos/Field_Work/web_14.placeholder.jpg",
+      "path": "./photos/Field_Work/web_14.jpg"
     },
     {
-      "height": 4422,
-      "compressed_path": "./photos/Travel Photography/DSCF7399.min.jpg",
-      "width": 3538,
+      "height": 1536,
+      "compressed_path": "./photos/Field_Work/web_15.min.jpg",
+      "width": 2048,
       "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/DSCF7399.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF7399.jpg"
+      "placeholder_path": "./photos/Field_Work/web_15.placeholder.jpg",
+      "path": "./photos/Field_Work/web_15.jpg"
     },
     {
-      "height": 4898,
-      "compressed_path": "./photos/Travel Photography/DSCF8091.min.jpg",
-      "width": 3265,
+      "height": 3240,
+      "compressed_path": "./photos/Field_Work/web_29.min.jpg",
+      "width": 4320,
       "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/DSCF8091.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF8091.jpg"
+      "placeholder_path": "./photos/Field_Work/web_29.placeholder.jpg",
+      "path": "./photos/Field_Work/web_29.jpg"
     },
     {
-      "height": 4080,
-      "compressed_path": "./photos/Travel Photography/DSCF4244.min.jpg",
-      "width": 3264,
+      "height": 3072,
+      "compressed_path": "./photos/Field_Work/web_150.min.jpg",
+      "width": 4096,
       "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/DSCF4244.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF4244.jpg"
+      "placeholder_path": "./photos/Field_Work/web_150.placeholder.jpg",
+      "path": "./photos/Field_Work/web_150.jpg"
     },
     {
-      "height": 3151,
-      "compressed_path": "./photos/Travel Photography/DSCF1894.min.jpg",
-      "width": 2363,
+      "height": 577,
+      "compressed_path": "./photos/Field_Work/web_140.min.jpg",
+      "width": 433,
       "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/DSCF1894.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF1894.jpg"
+      "placeholder_path": "./photos/Field_Work/web_140.placeholder.jpg",
+      "path": "./photos/Field_Work/web_140.jpg"
     },
     {
-      "height": 4898,
-      "compressed_path": "./photos/Travel Photography/DSCF8053.min.jpg",
-      "width": 3265,
+      "height": 1536,
+      "compressed_path": "./photos/Field_Work/web_11.min.jpg",
+      "width": 2048,
       "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/DSCF8053.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF8053.jpg"
+      "placeholder_path": "./photos/Field_Work/web_11.placeholder.jpg",
+      "path": "./photos/Field_Work/web_11.jpg"
     },
     {
-      "height": 4898,
-      "compressed_path": "./photos/Travel Photography/DSCF8196.min.jpg",
-      "width": 3265,
+      "height": 2592,
+      "compressed_path": "./photos/Field_Work/web_39.min.jpg",
+      "width": 1456,
       "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/DSCF8196.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF8196.jpg"
+      "placeholder_path": "./photos/Field_Work/web_39.placeholder.jpg",
+      "path": "./photos/Field_Work/web_39.jpg"
     },
     {
-      "height": 3808,
-      "compressed_path": "./photos/Travel Photography/DSCF2242.min.jpg",
-      "width": 2856,
+      "height": 2048,
+      "compressed_path": "./photos/Field_Work/web_10.min.jpg",
+      "width": 1536,
       "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/DSCF2242.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF2242.jpg"
+      "placeholder_path": "./photos/Field_Work/web_10.placeholder.jpg",
+      "path": "./photos/Field_Work/web_10.jpg"
     },
     {
-      "height": 4898,
-      "compressed_path": "./photos/Travel Photography/DSCF0989(1).min.jpg",
-      "width": 3265,
+      "height": 577,
+      "compressed_path": "./photos/Field_Work/web_141.min.jpg",
+      "width": 433,
       "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/DSCF0989(1).placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF0989(1).jpg"
+      "placeholder_path": "./photos/Field_Work/web_141.placeholder.jpg",
+      "path": "./photos/Field_Work/web_141.jpg"
     },
     {
-      "height": 4062,
-      "compressed_path": "./photos/Travel Photography/DSCF8958.min.jpg",
-      "width": 3250,
+      "height": 577,
+      "compressed_path": "./photos/Field_Work/web_143.min.jpg",
+      "width": 769,
       "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/DSCF8958.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF8958.jpg"
+      "placeholder_path": "./photos/Field_Work/web_143.placeholder.jpg",
+      "path": "./photos/Field_Work/web_143.jpg"
     },
     {
-      "height": 4415,
-      "compressed_path": "./photos/Travel Photography/IMG_0072.min.jpg",
-      "width": 3311,
+      "height": 4160,
+      "compressed_path": "./photos/Field_Work/web_142.min.jpg",
+      "width": 3120,
       "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/IMG_0072.placeholder.jpg",
-      "path": "./photos/Travel Photography/IMG_0072.jpg"
-    },
-    {
-      "height": 4899,
-      "compressed_path": "./photos/Travel Photography/DSCF0860.min.jpg",
-      "width": 3266,
-      "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/DSCF0860.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF0860.jpg"
-    },
-    {
-      "height": 3388,
-      "compressed_path": "./photos/Travel Photography/IMG_9863.min.jpg",
-      "width": 2541,
-      "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/IMG_9863.placeholder.jpg",
-      "path": "./photos/Travel Photography/IMG_9863.jpg"
-    },
-    {
-      "height": 4472,
-      "compressed_path": "./photos/Travel Photography/DSCF0138.min.jpg",
-      "width": 3578,
-      "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/DSCF0138.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF0138.jpg"
-    },
-    {
-      "height": 4149,
-      "compressed_path": "./photos/Travel Photography/20160406-20160505DSCF2086.min.jpg",
-      "width": 3112,
-      "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/20160406-20160505DSCF2086.placeholder.jpg",
-      "path": "./photos/Travel Photography/20160406-20160505DSCF2086.jpg"
-    },
-    {
-      "height": 4352,
-      "compressed_path": "./photos/Travel Photography/DSCF1802.min.jpg",
-      "width": 3264,
-      "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/DSCF1802.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF1802.jpg"
-    },
-    {
-      "height": 4352,
-      "compressed_path": "./photos/Travel Photography/DSCF3621.min.jpg",
-      "width": 3264,
-      "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/DSCF3621.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF3621.jpg"
-    },
-    {
-      "height": 4898,
-      "compressed_path": "./photos/Travel Photography/DSCF8993.min.jpg",
-      "width": 3265,
-      "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/DSCF8993.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF8993.jpg"
-    },
-    {
-      "height": 4898,
-      "compressed_path": "./photos/Travel Photography/DSCF8103.min.jpg",
-      "width": 3265,
-      "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/DSCF8103.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF8103.jpg"
-    },
-    {
-      "height": 3943,
-      "compressed_path": "./photos/Travel Photography/DSCF5784.min.jpg",
-      "width": 3154,
-      "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/DSCF5784.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF5784.jpg"
-    },
-    {
-      "height": 3264,
-      "compressed_path": "./photos/Travel Photography/DSCF4538.min.jpg",
-      "width": 2611,
-      "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/DSCF4538.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF4538.jpg"
-    },
-    {
-      "height": 3000,
-      "compressed_path": "./photos/Travel Photography/DSCF1252.min.jpg",
-      "width": 5332,
-      "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/DSCF1252.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF1252.jpg"
-    },
-    {
-      "height": 3962,
-      "compressed_path": "./photos/Travel Photography/DSCF5636.min.jpg",
-      "width": 3170,
-      "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/DSCF5636.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF5636.jpg"
-    },
-    {
-      "height": 2848,
-      "compressed_path": "./photos/Travel Photography/IMG_7575.min.jpg",
-      "width": 3797,
-      "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/IMG_7575.placeholder.jpg",
-      "path": "./photos/Travel Photography/IMG_7575.jpg"
-    },
-    {
-      "height": 4472,
-      "compressed_path": "./photos/Travel Photography/DSCF8846.min.jpg",
-      "width": 3578,
-      "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/DSCF8846.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF8846.jpg"
-    },
-    {
-      "height": 3399,
-      "compressed_path": "./photos/Travel Photography/DSCF7355.min.jpg",
-      "width": 2719,
-      "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/DSCF7355.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF7355.jpg"
+      "placeholder_path": "./photos/Field_Work/web_142.placeholder.jpg",
+      "path": "./photos/Field_Work/web_142.jpg"
     }
   ]
 }
